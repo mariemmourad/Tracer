@@ -1,0 +1,41 @@
+#a-content
+{
+position:relative;
+height:auto;
+padding-top:73px;
+padding-bottom:80px;
+}
+#a-content h2
+{
+font-size: 54px;
+line-height: 54px;
+color: #273238;
+}
+#a-content h3
+{
+font-size: 26px;
+line-height: 35px;
+color: #273238;
+}
+#a-content p
+{
+margin-top: 18px;
+color: #607d8b;
+font: 400 18px/25px "Lato", sans-serif;
+}
+#a-content .a-content-btn
+{
+margin-top: 33px;
+margin-left:15px;
+font-size:22px;
+line-height:26px;
+color:#273238;
+background-color:#c8e6a3;
+cursor:pointer;
+border:none;
+padding:10px 20px;
+}
+#a-content .a-content-btn:hover
+{
+background-color:#ed8e69;
+}

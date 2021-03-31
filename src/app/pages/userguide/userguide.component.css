@@ -1,0 +1,22 @@
+#a-content
+{
+position:relative;
+height:auto;
+padding-top:73px;
+padding-bottom:80px;
+}
+#a-content h2
+{
+font-size: 40px;
+line-height: 54px;
+font-family: sans-serif;
+font-weight: bold;
+font-style: normal;
+color: #0e0e2c;
+}
+#a-content p
+{
+margin-top: 18px;
+color: #000000;
+font: normal 500 24px/28px "Lato", sans-serif;
+}
